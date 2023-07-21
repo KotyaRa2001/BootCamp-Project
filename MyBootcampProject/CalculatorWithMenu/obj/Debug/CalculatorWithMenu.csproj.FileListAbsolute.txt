@@ -1,0 +1,13 @@
+C:\Users\student.ITSTEP\Documents\Челноков\MyBootcampProject\CalculatorWithMenu\bin\Debug\CalculatorWithMenu.exe.config
+C:\Users\student.ITSTEP\Documents\Челноков\MyBootcampProject\CalculatorWithMenu\bin\Debug\CalculatorWithMenu.exe
+C:\Users\student.ITSTEP\Documents\Челноков\MyBootcampProject\CalculatorWithMenu\bin\Debug\CalculatorWithMenu.pdb
+C:\Users\student.ITSTEP\Documents\Челноков\MyBootcampProject\CalculatorWithMenu\obj\Debug\CalculatorWithMenu.csproj.AssemblyReference.cache
+C:\Users\student.ITSTEP\Documents\Челноков\MyBootcampProject\CalculatorWithMenu\obj\Debug\CalculatorWithMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\student.ITSTEP\Documents\Челноков\MyBootcampProject\CalculatorWithMenu\obj\Debug\CalculatorWithMenu.Form1.resources
+C:\Users\student.ITSTEP\Documents\Челноков\MyBootcampProject\CalculatorWithMenu\obj\Debug\CalculatorWithMenu.Properties.Resources.resources
+C:\Users\student.ITSTEP\Documents\Челноков\MyBootcampProject\CalculatorWithMenu\obj\Debug\CalculatorWithMenu.csproj.GenerateResource.cache
+C:\Users\student.ITSTEP\Documents\Челноков\MyBootcampProject\CalculatorWithMenu\obj\Debug\CalculatorWithMenu.csproj.CoreCompileInputs.cache
+C:\Users\student.ITSTEP\Documents\Челноков\MyBootcampProject\CalculatorWithMenu\obj\Debug\CalculatorWithMenu.exe
+C:\Users\student.ITSTEP\Documents\Челноков\MyBootcampProject\CalculatorWithMenu\obj\Debug\CalculatorWithMenu.pdb
+C:\Users\student.ITSTEP\Documents\Челноков\MyBootcampProject\CalculatorWithMenu\obj\Debug\CalculatorWithMenu.Form2.resources
+C:\Users\student.ITSTEP\Documents\Челноков\MyBootcampProject\CalculatorWithMenu\obj\Debug\CalculatorWithMenu.Form3.resources
